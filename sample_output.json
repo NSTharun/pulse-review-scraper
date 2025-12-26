@@ -1,10 +1,9 @@
 [
   {
-    "title": "Excellent product",
-    "review": "Very useful and easy to use.",
-    "date": "2024-03-12T00:00:00",
-    "rating": "5",
-    "reviewer": "John D",
-    "source": "G2"
+    "title": "Great formatting tool",
+    "review": "I love how easy it is to use...",
+    "date": "2024-03-15T00:00:00",
+    "source": "G2",
+    "reviewer": "Jane Doe"
   }
 ]
